@@ -1,5 +1,6 @@
 function List_New(){
 	var memory = [];
+	//test
 	var length = 0;
 
 	this.my_get = function(adress){
