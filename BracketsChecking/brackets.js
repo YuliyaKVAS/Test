@@ -1,4 +1,5 @@
 
+
 function MyStack(){
 	var stack_array = [];
 	var length = 0;
