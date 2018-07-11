@@ -55,7 +55,7 @@ class BinaryTree{
 		return false;
 	}
 
-	/*remove(value){
+	/*remove(value){///
 		var removeNode = function(node, value){
 			var countNew = this.count;
 			if(node === null){
